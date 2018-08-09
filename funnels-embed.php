@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Funnels Embed
+Plugin Name: Funnels Embed for T4S
 Plugin URI: https://www.t4s.site
 Description: Funnels Embed
-Version: 1.4
+Version: 1.4.1
 Author: Simon Goodchild
 Author URI: https://www.t4s.site
 */
